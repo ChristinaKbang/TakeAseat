@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TakeAseat">
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".Navigation_Bar_Info"
+            android:label="@string/title_activity_navigation__bar__info"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ui.SignInActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
