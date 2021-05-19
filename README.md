@@ -38,4 +38,6 @@ Won't have:
 
 https://github.com/ChristinaKbang/Projekt_TakeAseat_AND_Eksamen.git  - Link til det færdige projekt.
 
+https://www.youtube.com/watch?v=O5MSPLKpu-I  - Link til youtube video.
+
 
